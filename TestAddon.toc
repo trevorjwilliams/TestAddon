@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: TestAddon
+## Notes: Someday might be something!
+## Version: 0.0.1
+
+TestAddon.lua
+TestAddon.xml
